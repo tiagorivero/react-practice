@@ -2,6 +2,8 @@
 
 A classic Tic Tac Toe game built with React and Vite.
 
+<img width="520" height="619" alt="Image" src="https://github.com/user-attachments/assets/c9f1ef65-afa7-4325-b950-2ac20087035e" />
+
 ## Features
 
 - Interactive 3x3 board
