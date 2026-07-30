@@ -2,6 +2,8 @@
 
 A Google Translate-style app built with React, TypeScript, and an AI language model for real-time text translation.
 
+<img width="825" height="351" alt="Image" src="https://github.com/user-attachments/assets/cfe7e7c3-65a2-4d1b-b9d0-8257400a9a26" />
+
 ## Features
 
 - Translate text between multiple languages
