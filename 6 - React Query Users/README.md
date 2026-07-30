@@ -2,6 +2,8 @@
 
 A user directory app built with React, TypeScript, and TanStack React Query, practicing infinite scrolling, sorting, and filtering over paginated API data.
 
+<img width="1754" height="846" alt="Image" src="https://github.com/user-attachments/assets/99ff2a13-17d6-48ee-9eb3-a7df45084536" />
+
 ## Features
 
 - Infinite scrolling user list (load more results on demand)
