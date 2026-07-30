@@ -2,6 +2,8 @@
 
 A small React app built to practice consuming APIs and using custom Hooks.
 
+<img width="905" height="873" alt="Image" src="https://github.com/user-attachments/assets/cd6f7297-06fa-45c4-bd60-11ac8d1f29ef" />
+
 ## Features
 
 - Search movies by title using an external API
