@@ -2,6 +2,8 @@
 
 A small e-commerce practice app built with React, focused on global state management using Context API and useReducer.
 
+<img width="1323" height="896" alt="Image" src="https://github.com/user-attachments/assets/12bac9a0-8cea-49b4-ad62-9603a466fd35" />
+
 ## Features
 
 - Product listing with add/remove from cart
