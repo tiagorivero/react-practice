@@ -2,6 +2,8 @@
 
 A classic TodoMVC-style app built with React and TypeScript, focused on practicing strong typing in a real component structure.
 
+<img width="688" height="467" alt="Image" src="https://github.com/user-attachments/assets/747f67d4-15f2-4340-a0d2-e404d1e1bdc5" />
+
 ## Features
 
 - Add new todos
