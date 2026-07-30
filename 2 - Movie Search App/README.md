@@ -24,6 +24,17 @@ A small React app built to practice consuming APIs and using custom Hooks.
 - `useState`, `useEffect`, `useRef`, `useMemo`, `useCallback`
 - Consuming an external API with `fetch`
 
+## Setup
+
+This project needs an OMDb API key to fetch movie data.
+
+1. Get a free API key at [omdbapi.com/apikey.aspx](https://www.omdbapi.com/apikey.aspx)
+2. Create a `.env` file in the project root and add:
+
+```
+VITE_API_KEY=your_omdb_api_key_here
+```
+
 ## Run locally
 
 Clone the repository and install the dependencies:
